@@ -1,4 +1,4 @@
-# Jacks Portfolio
+# Jack's Portfolio
 
 Built using HTML, CSS, and JavaScript.
 
