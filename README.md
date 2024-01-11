@@ -1,9 +1,5 @@
 # Jack's Portfolio
 
-Built using HTML, CSS, and JavaScript.
-
-## :eyes: Preview
-
 ![Jack's Portfolio Desktop](./Portfolio_Images/desktop.png "Desktop Demo")
 ![Jack's Portfolio Mobile](./Portfolio_Images/mobile.png "Mobile Demo")
 
