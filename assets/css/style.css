@@ -155,7 +155,12 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background: var(--smoky-black); }
+body { 
+
+  background-color: var(--smoky-black); 
+  background:url("/assets/images/back.jpg");
+
+}
 
 
 
@@ -1878,8 +1883,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 
   /**
-	 * RESUME
-	 */
+   * RESUME
+   */
 
   .timeline-text { max-width: 700px; }
 
