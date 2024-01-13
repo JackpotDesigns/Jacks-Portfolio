@@ -1,8 +1,8 @@
 # :eyes: Jack's Portfolio
 
-![Jack's Portfolio Desktop](./Portfolio_Images/desktop.png "Desktop Demo")
+<!--- ![Jack's Portfolio Desktop](./Portfolio_Images/desktop.png "Desktop Demo")
 ![Jack's Portfolio Mobile](./Portfolio_Images/mobile.png "Mobile Demo")
-
+--->
 ## :white_check_mark: Requirements
 
 Before you begin, ensure you have met the following requirements:
