@@ -2,15 +2,6 @@
   #style.css
 \*-----------------------------------*/
 
-
-/**
- * copyright 2022 @codewithsadee
- */
-
-
-
-
-
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -137,16 +128,11 @@ input, textarea {
 
 :focus { outline-color: var(--orange-brown); }
 
-html { font-family: var(--ff-poppins); }
-
-body { 
-
-  background-color: var(--smoky-black); 
-  background:url("/assets/images/back.jpg");
-
+html { font-family: var(--ff-poppins); 
+  height: 100%;
+  background:url("../images/back.jpg");
+  background-color: black;
 }
-
-
 
 
 
